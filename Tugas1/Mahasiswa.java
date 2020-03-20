@@ -15,7 +15,7 @@ public class Mahasiswa {
     public Integer getNilai () {
         return nilai;
         }
-    public void setNilai (String newNilai) {
+    public void setNilai (Integer newNilai) {
         this.nilai = newNilai;
         }
     public String getNim () {
